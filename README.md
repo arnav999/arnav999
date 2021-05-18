@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on c , c++ ,shell and os development.
 - 🌱 I’m currently learning shell , c , c++ , python , assembly.
 - 👯 I’m looking to collaborate on new operating system development.
