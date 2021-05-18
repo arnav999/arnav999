@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**arnav999/arnav999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on c , c++ ,shell and os development.
+- 🌱 I’m currently learning shell , c , c++ , python , assembly.
+- 👯 I’m looking to collaborate on new operating system development.
+- 🤔 I’m looking for help with os and kernal development.
+- 📫 How to reach me: 
+
+     instagram : arnavpatil_9
+     
+     twitter : arnavpatil_9
+     
+     email : arnavrvkd@gmail.com
+
