@@ -13,4 +13,6 @@
      twitter : arnavpatil_9
      
      email : arnavrvkd@gmail.com
+     
+     ![Github stats](https://github-readme-stats.vercel.app/api?username=arnav999&show_icons=true)
 
