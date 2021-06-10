@@ -17,7 +17,11 @@
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=arnav999&show_icons=true)
+<a href="https://github.com/arnav999">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arnav999&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav999&layout=compact&theme=vue">
+</a>
+
 
      
      
