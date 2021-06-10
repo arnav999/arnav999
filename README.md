@@ -8,8 +8,6 @@
 - 👯 I’m looking to collaborate on : new operating system development.
 - 🤔 I’m looking for help with : os and kernal development.
 - 📫 How to reach me: 
-
-     instagram : arnavpatil_9
      
      twitter : arnavpatil_9
      
