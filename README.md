@@ -13,13 +13,6 @@
      
      email : arnavrvkd@gmail.com
      
-### My GitHub stats
-
-This doesn't take into account the work done in forks, organizations, or private repos.
-
-<a href="https://github.com/arnav999">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arnav999&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
-  
 
 
      
